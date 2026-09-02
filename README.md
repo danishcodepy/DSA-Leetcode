@@ -1,2 +1,2 @@
 # DSA-Leetcode
-i'll be  posting every leetcode question i solve
+i'll be posting every question i solve in leetcode
