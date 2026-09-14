@@ -1,3 +1,3 @@
 # DSA-Leetcode
-i'll be posting every question i solve in leetcode
-Pratice makes perfect
+This repository contains my solutions to Data Structures and Algorithms problems that I solve on LeetCode.
+
